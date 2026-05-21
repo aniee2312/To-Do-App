@@ -33,20 +33,25 @@ This project uses CRUD operations:
 
 ```bash
 git clone <repository-link>
-
+```
+```bash
 2. Move to project Folder
 cd to do
-
+```
+```bash
 3.Install dependencies:
 Bash
 npm install
-
+```
+```bash
 4.Start the development server:
 Bash
 npm run dev
-
+```
+```bash
 5.Open browser:
 http://localhost:5173
+```
 
 ##Project Structure
 
@@ -59,4 +64,5 @@ src
 └── index.css
 
 ##SCREENSHOT OF TO-DO LIST WEB APP
-![To-Do List](<To-Do List.png>)
+![To-Do List](./To-Do List.png)
+
