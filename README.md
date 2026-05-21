@@ -53,8 +53,8 @@ npm run dev
 http://localhost:5173
 ```
 
-##Project Structure
-
+## Project Structure
+```
 src
 ├── components
 │   ├── Todo.jsx
@@ -62,7 +62,8 @@ src
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
+## SCREENSHOT OF TO-DO LIST WEB APP
 
-##SCREENSHOT OF TO-DO LIST WEB APP
 ![To-Do List](./To-Do List.png)
 
